@@ -1,6 +1,5 @@
 Daftar Isi
 -Dasar HTML
 -Dasar CSS
--Dasar Jquery
 -Upload file project
 -Belajar Git dan Github
