@@ -1,0 +1,5 @@
+Dasar-dasar HTML 
+-tag <h1>
+-tag <a>
+-tag <img>
+-embed video, mp3, dll
