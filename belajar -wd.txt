@@ -3,3 +3,5 @@ Daftar Isi
 -Dasar CSS
 -Dasar Jquery
 -Mengenal Bootstrap
+-Upload file project
+-Belajar Git dan Github
